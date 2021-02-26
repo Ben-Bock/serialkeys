@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Coverage report
+/test/unittests/cov*
+/test/unittests/.cov*
